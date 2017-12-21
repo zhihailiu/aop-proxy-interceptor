@@ -22,9 +22,9 @@
 hs_err_pid*
 
 # Eclipse
-.settings
+.settings/
 .classpath
 .project
 
 # Maven
-target/
+target/*
